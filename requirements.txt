@@ -1,4 +1,4 @@
-gradio
+streamlit
 google-genai
 pandas
 scikit-learn
