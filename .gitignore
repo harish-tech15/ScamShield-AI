@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+secrets.json
+*service-account*.json
+
+# Dataset files
+sms_spam.zip
+sms_spam_data/
+
+# Model files
+*.pkl
+*.joblib
+
+# Editor and operating system
+.vscode/
+.DS_Store
+Thumbs.db
